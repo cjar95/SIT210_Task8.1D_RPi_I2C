@@ -44,5 +44,5 @@ def main():
         elif(LightLevel >70):
             print("Light level is too Bright!!")
 
-        time.sleep(2)
+        time.sleep(1)
 main()
